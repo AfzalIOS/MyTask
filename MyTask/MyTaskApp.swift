@@ -11,7 +11,13 @@ import SwiftUI
 struct MyTaskApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            
+            // Home Screen View
+//            HomeView()
+            
+            // DashboardView Screen
+            
+            DashboardView()
         }
     }
 }
